@@ -1,0 +1,15 @@
+[14380:26048:0419/140030.005:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:238] No machine level policy manager exists.
+[14380:26048:0419/140032.170:INFO:CONSOLE:1] "Test data already exists", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.187:INFO:CONSOLE:1] "Data initialization result: [object Object]", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.187:INFO:CONSOLE:1] "Users in DB: 25 [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.188:INFO:CONSOLE:1] "Classes in DB: 96", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.188:INFO:CONSOLE:1] "Bookings in DB: 1 [object Object]", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.189:INFO:CONSOLE:1] "Database initialized! Available commands:", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.189:INFO:CONSOLE:1] "  await window.db.getAll("users")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.189:INFO:CONSOLE:1] "  await window.db.getAll("classes")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.189:INFO:CONSOLE:1] "  await window.db.getAll("bookings")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.190:INFO:CONSOLE:1] "  await window.testData.resetAllData() - Reset all data", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:26048:0419/140032.529:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://appbrewery.github.io/gym/login/ (0)
+[14380:26048:0419/140032.920:INFO:CONSOLE:1] "Loading...", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-11e4d38faf0349ff.js (1)
+[14380:6796:0419/140035.863:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[14380:6796:0419/140103.564:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
